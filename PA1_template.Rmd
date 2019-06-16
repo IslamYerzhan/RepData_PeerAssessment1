@@ -110,4 +110,4 @@ ggplot(data = aver_per_weekend_weekday,mapping = aes(x = interval,y = steps))+
         labs(title = "Average Daily Steps (type of day)")
 ```
 
-Seems like there's less activity in earlier intervals during the weekend, but slightly more at later intervals.
+
